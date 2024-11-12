@@ -12,7 +12,7 @@ export const projects = [
       title: "Practica DOM",
       description: "Esta es la descripción de mi segundo proyecto",
       image:
-        "https://i.ibb.co/frbyT5p/smiling-freelancing-developer-home-office-doing-coding-computer.jpg",
+        "https://i.ibb.co/h8R7yxS/admin-apartment-exasperated-by-annoying-bugs-while-programming.jpg",
       tech: ["HTML5", "CSS3", "JavaScript"],
       github: "https://github.com/xforzan/Practica-Dom",
       link: "https://practica-dom-nine.vercel.app/",
