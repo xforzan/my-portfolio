@@ -3,7 +3,7 @@ export const projects = [
       title: "Proyecto 1",
       description: "Este proyecto consiste en crear una página web responsive, adaptada a todos los dispositivos, utilizando Flexbox y Grid para un diseño flexible y optimizado.",
       image:
-        "./public/img/picture1.png",
+        "../public/img/picture1.jpg",
       tech: ["HTML5", "CSS3"],
       github: "https://github.com/xforzan/Proyecto_1",
       link: "https://proyecto-1-murex.vercel.app/",
@@ -12,7 +12,7 @@ export const projects = [
       title: "Practica DOM",
       description: "Esta es la descripción de mi segundo proyecto",
       image:
-        "https://img.freepik.com/free-photo/admin-apartment-exasperated-by-annoying-bugs-while-programming_482257-92992.jpg?t=st=1731424561~exp=1731428161~hmac=a78aa9526b3ca5884e2b1bb004ad59c6571114e09add0d1969617ce4a7b5a817&w=1380",
+        "../public/img/picture2.jpg",
       tech: ["HTML5", "CSS3", "JavaScript"],
       github: "https://github.com/xforzan/Practica-Dom",
       link: "https://practica-dom-nine.vercel.app/",
