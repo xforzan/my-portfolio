@@ -1,4 +1,58 @@
 
-.link{
-    background-color: transparent;
+.About{
+    padding: 0 8rem;
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.About h2{
+    font-size: 50px;
+}
+
+.About p{
+    text-align: justify;
+    font-size: 20px;
+    line-height: 35px;
+}
+
+.img{
+    display: flex;
+    justify-content: space-between;
+}
+
+.javascript{
+    width: 20%;
+    height: 20%;
+    will-change: filter;
+    transition: filter 300ms;
+}
+.javascript:hover{
+    filter: drop-shadow(0 0 2em #f7df1eaa);
+}
+
+.html{
+    width: 18%;
+    height: 18%;
+    will-change: filter;
+    transition: filter 300ms;
+}
+
+
+.html:hover{
+    filter: drop-shadow(0 0 2em #e34f26);
+}
+
+.css{
+    width: 20%;
+    height: 20%;
+    will-change: filter;
+    transition: filter 300ms;
+}
+
+.css:hover{
+    filter: drop-shadow(0 0 2em #2350D9);
 }
