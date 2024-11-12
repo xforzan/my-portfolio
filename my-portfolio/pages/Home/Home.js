@@ -6,15 +6,9 @@ export const Home = () => {
   cleanPage(main);
   main.innerHTML = `
     <section class="home">
-    <p>Hey, I'm</p>
+    <p>Hola, soy</p>
     <h1>Achraf Nakhil</h1>
-    <p>I'm a software engineer based in Toronto, 
-    Canada and also a communication and journalism student. 
-    I enjoy creating things that live on the internet, 
-    whether that be websites, applications, or anything in between. 
-    I have been freelancing for a year now while studying at the university and 
-    I've manage to gain a decent amount of experience and valuable knowledge 
-    from all different kinds of fields throughout my projects/work.</p>
-    <a href="nakhila2024@gmail.com">Say hi →</a>
+    <p>Soy un estudiante y desarrollador apasionado por crear cosas que vivan en Internet, ya sean sitios web, aplicaciones o cualquier cosa intermedia. Llevo un año trabajando como freelancer y he adquirido una gran experiencia y conocimientos valiosos en diversas áreas a través de mis proyectos y trabajos.</p>
+    <a href="nakhila2024@gmail.com">Di Hola →</a>
     </section>`;
 };
