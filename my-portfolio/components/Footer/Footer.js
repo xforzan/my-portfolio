@@ -5,9 +5,9 @@ export const Footer = () => `
 
 <h2>Contact</h2>
 <div>
-${Button("/icons/twitter.jpeg", "Twitter")}
+${Button("/icons/x.svg", "X")}
 ${Button("/icons/github.jpeg", "GitHub")}
 ${Button("/icons/linkedin.jpeg", "LinkedIn")}
-${Button("/icons/telegram.jpeg", "Telegram")}
+${Button("/icons/link.jpeg", "Link")}
 </div>
 `;

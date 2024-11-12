@@ -1,21 +1,21 @@
 export const projects = [
     {
-      title: "Primer proyecto",
-      description: "Esta es la descripción de mi primer proyecto",
+      title: "Proyecto 1",
+      description: "Este proyecto consiste en crear una página web responsive, adaptada a todos los dispositivos, utilizando Flexbox y Grid para un diseño flexible y optimizado.",
       image:
         "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2VifGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
-      tech: ["React", "HTML5", "CSS3", "JavaScript"],
-      github: "http://github.com/myuser/proyecto1",
-      link: "www.proyecto1.com",
+      tech: ["HTML5", "CSS3"],
+      github: "https://github.com/xforzan/Proyecto_1",
+      link: "https://proyecto-1-murex.vercel.app/",
     },
     {
-      title: "Segundo proyecto",
+      title: "Practica DOM",
       description: "Esta es la descripción de mi segundo proyecto",
       image:
         "https://images.unsplash.com/photo-1661961111184-11317b40adb2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2344&q=80",
-      tech: ["React", "HTML5", "CSS3", "JavaScript"],
-      github: "http://github.com/myuser/proyecto2",
-      link: "www.proyecto1.com",
+      tech: ["HTML5", "CSS3", "JavaScript"],
+      github: "https://github.com/xforzan/Practica-Dom",
+      link: "https://practica-dom-nine.vercel.app/",
     },
     {
       title: "Tercer proyecto",

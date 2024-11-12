@@ -7,7 +7,7 @@ export const Home = () => {
   main.innerHTML = `
     <section class="home">
     <p>Hey, I'm</p>
-    <h1>Peter Parker</h1>
+    <h1>Achraf Nakhil</h1>
     <p>I'm a software engineer based in Toronto, 
     Canada and also a communication and journalism student. 
     I enjoy creating things that live on the internet, 
@@ -15,6 +15,6 @@ export const Home = () => {
     I have been freelancing for a year now while studying at the university and 
     I've manage to gain a decent amount of experience and valuable knowledge 
     from all different kinds of fields throughout my projects/work.</p>
-    <a href="mailto:peterparker@gmail.com">Say hi →</a>
+    <a href="nakhila2024@gmail.com">Say hi →</a>
     </section>`;
 };
