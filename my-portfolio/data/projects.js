@@ -3,7 +3,7 @@ export const projects = [
       title: "Proyecto 1",
       description: "Este proyecto consiste en crear una página web responsive, adaptada a todos los dispositivos, utilizando Flexbox y Grid para un diseño flexible y optimizado.",
       image:
-        "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2VifGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "https://img.freepik.com/free-photo/smiling-freelancing-developer-home-office-doing-coding-computer_482257-83067.jpg?t=st=1731424245~exp=1731427845~hmac=31a46dfbe0155667e9b98081cf0d1570465e5a351f66a6986d59198001f754ab&w=1380",
       tech: ["HTML5", "CSS3"],
       github: "https://github.com/xforzan/Proyecto_1",
       link: "https://proyecto-1-murex.vercel.app/",
