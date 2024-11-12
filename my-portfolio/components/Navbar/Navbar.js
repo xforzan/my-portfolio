@@ -19,7 +19,7 @@ export const changeText = () => {
 
 export const Navbar = () => `
 <nav>
-<h2>Achraf Nakhill</h2>
+<h2>Achraf Nakhil</h2>
 <ul>
     <li>
         <a href="#" id="homelink">Home</a>
